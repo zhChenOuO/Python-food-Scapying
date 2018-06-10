@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import openpyxl
 import pandas as pd
 link = "http://www.ipeen.com.tw/search/taipei/000/1-0-0-0/?baragain=1&so=sat"
 NextPage = "http://www.ipeen.com.tw"
