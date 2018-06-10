@@ -25,6 +25,6 @@
 ##研究成果
 
 ![圓餅圖](https://github.com/OsbornOuO/Python-food-Scapying/blob/master/Figure_1.png)
-![excel]()
+![excel](https://github.com/OsbornOuO/Python-food-Scapying/blob/master/1.PNG)
 1. 台北地區在美食網上的排名，第一是大安區、第二是中山區、第三是松山區
-2. 
+2. 統整重要資料到EXCEL內
