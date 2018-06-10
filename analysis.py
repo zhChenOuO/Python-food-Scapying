@@ -1,14 +1,13 @@
 import xlrd
-import pandas as pd
 from collections import Counter
 from matplotlib import pyplot as plt
-from matplotlib import cm
-import numpy as np
+
+
 colors = ["red","coral","green","yellow","orange","purple","Indigo"]
 data = xlrd.open_workbook('dataFood.xlsx')
 table = data.sheet_by_name(u'愛評網')
 cityCounter = Counter()
-for x in table.col_values(1)[1:]:
+for x in table.col_values(2):
       cityCounter.update([x])
 topsixLable = []
 topsixValue = []
