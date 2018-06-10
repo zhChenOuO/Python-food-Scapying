@@ -22,7 +22,7 @@
 5. Counter 計算該城市有多少排名上的美食
 6. matplotlib 圓餅圖的繪製
 
-##研究成果
+## 研究成果
 
 ![圓餅圖](https://github.com/OsbornOuO/Python-food-Scapying/blob/master/Figure_1.png)
 ![excel](https://github.com/OsbornOuO/Python-food-Scapying/blob/master/1.PNG)
